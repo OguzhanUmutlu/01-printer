@@ -1,0 +1,9 @@
+[package]
+name = "printer-01"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+termsize = "0.1.6"
+colour = "0.6.0"
